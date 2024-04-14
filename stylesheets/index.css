@@ -1,0 +1,114 @@
+.nav-item a:hover {
+    text-decoration: underline;
+}
+
+
+.col-md-4 {    
+    margin: 0 auto;
+    margin-top: 200px;
+    align-items: center;
+}
+
+.logo {
+    margin-bottom: 10px;
+}
+
+img {
+   width: 75%;
+   height: 75%;
+   margin: auto; 
+}
+
+
+
+.searchbar {
+    margin-left: -125px;
+    height: 44px;
+    background: white;
+    border: 1px solid gray;
+    box-shadow: 1px 1px 1px 1px gray;
+    border-radius: 5px;
+    width: 575px;
+    
+    
+  }
+
+.searchbar:hover {
+    border: 1px solid black;
+  }
+
+.searchbar:focus-within {
+    outline: unset;
+    
+    
+}
+
+
+.buttons {
+    margin-top:20px;
+  }
+.button {
+    background-color: lightgray;
+    border:none;
+    color:black;
+    font-size:15px;
+    padding: 10px 20px;
+    margin:5px;
+    border-radius:4px;
+    outline:none;
+  }
+.button:hover {
+    border: 1px solid black;
+    
+  }
+
+.language {
+    margin: 10px 40px;
+}
+
+.fixed-bottom {
+    margin: 0px;
+    background: #ececec;
+    justify-content: center;
+}
+
+ul {
+    list-style: none;
+    text-align: right;
+    
+}
+
+.footer-left {
+    margin-left: 0px;
+}
+
+.footer-left li {
+    margin: 10px;
+}
+
+.footer-left li a {
+    text-decoration: none;
+    color: black;
+}
+
+.footer-left li a:hover {
+    text-decoration: underline;
+}
+
+.footer-right {
+    margin-right: 0px;
+    margin-left: 550px;
+}
+
+.footer-right li {
+    margin: 10px;
+}
+
+.footer-right li a {
+    text-decoration: none;
+    color: black;
+}
+
+.footer-right li a:hover {
+    text-decoration: underline;
+}
